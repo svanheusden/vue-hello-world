@@ -17,7 +17,7 @@ export default {
 </script>
 
 <script>
-import HelloWorld from './components/Markdown.vue'
+import Markdown from './components/Markdown.vue'
 
 export default {
   name: 'app',
