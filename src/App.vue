@@ -16,6 +16,17 @@ export default {
 }
 </script>
 
+<script>
+import HelloWorld from './components/Markdown.vue'
+
+export default {
+  name: 'app',
+  components: {
+    Markdown
+  }
+}
+</script>
+
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
