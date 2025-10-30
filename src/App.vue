@@ -16,16 +16,6 @@ export default {
 }
 </script>
 
-<script>
-import Markdown from './components/Markdown.vue'
-
-export default {
-  name: 'app',
-  components: {
-    Markdown
-  }
-}
-</script>
 
 <style>
 #app {
